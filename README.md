@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0048-rotate-image) |
 ## Divide and Conquer
 |  |
