@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
