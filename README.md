@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0054-spiral-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1688-count-of-matches-in-tournament) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1688-count-of-matches-in-tournament) |
 ## Divide and Conquer
 |  |
 | ------- |
