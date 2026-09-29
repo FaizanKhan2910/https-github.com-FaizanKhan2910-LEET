@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0054-spiral-matrix) |
 | [0152-maximum-product-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0152-maximum-product-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2239-find-closest-number-to-zero) |
 ## Matrix
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
