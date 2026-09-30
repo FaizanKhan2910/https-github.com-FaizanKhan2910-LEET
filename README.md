@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
