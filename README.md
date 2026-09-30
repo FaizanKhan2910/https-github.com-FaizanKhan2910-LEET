@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0219-contains-duplicate-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
