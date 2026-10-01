@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1480-running-sum-of-1d-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
