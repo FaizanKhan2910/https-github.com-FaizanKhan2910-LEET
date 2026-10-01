@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0904-fruit-into-baskets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1672-richest-customer-wealth) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
+| [0904-fruit-into-baskets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0904-fruit-into-baskets) |
 ## Bit Manipulation
 |  |
 | ------- |
