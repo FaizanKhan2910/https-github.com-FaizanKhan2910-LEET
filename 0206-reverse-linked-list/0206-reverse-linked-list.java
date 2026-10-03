@@ -15,26 +15,22 @@ class Solution {
         {
             return head;
         }
-
         ListNode prev = null;
         ListNode present = head;
-         ListNode next = present.next;
-       
+        ListNode next = present.next;
 
         while( present != null)
         {
-            
-
             present.next = prev;
-            prev = present;
+            prev = present ;
             present = next;
 
             if( next != null)
             {
-                    next = next.next;
+                next = next.next;
             }
-    
         }
+
         return prev;
     }
 }
