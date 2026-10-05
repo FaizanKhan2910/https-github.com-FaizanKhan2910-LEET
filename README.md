@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2652-sum-multiples) |
+| [3945-digit-frequency-score](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3668-restore-finishing-order](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
