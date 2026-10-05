@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0904-fruit-into-baskets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0367-valid-perfect-square) |
+| [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -205,4 +208,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0229-majority-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
