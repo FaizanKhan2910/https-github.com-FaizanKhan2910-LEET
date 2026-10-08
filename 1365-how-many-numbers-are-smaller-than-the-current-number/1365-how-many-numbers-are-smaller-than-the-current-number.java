@@ -8,7 +8,7 @@ class Solution {
              int count = 0;
             for(int j = 0 ; j < nums.length; j++)
             {
-                    if(nums[i] > nums[j])
+                    if(  nums[j] < nums[i])
                     {
                        count++;
                     }
