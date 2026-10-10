@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2769-find-the-maximum-achievable-number) |
 | [3945-digit-frequency-score](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
