@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1688-count-of-matches-in-tournament) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2520-count-the-digits-that-divide-a-number) |
