@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
