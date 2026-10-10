@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2239-find-closest-number-to-zero) |
+| [2574-left-and-right-sum-differences](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2733-neither-minimum-nor-maximum) |
 | [3668-restore-finishing-order](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3668-restore-finishing-order) |
 ## Matrix
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2574-left-and-right-sum-differences) |
 ## Merge Sort
 |  |
 | ------- |
