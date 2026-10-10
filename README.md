@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
@@ -308,5 +309,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
