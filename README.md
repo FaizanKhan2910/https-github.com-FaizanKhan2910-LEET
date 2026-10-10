@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3945-digit-frequency-score) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
