@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3945-digit-frequency-score) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0709-to-lower-case) |
 | [1678-goal-parser-interpretation](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
 | ------- |
