@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2239-find-closest-number-to-zero) |
+| [2733-neither-minimum-nor-maximum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2733-neither-minimum-nor-maximum) |
 | [3668-restore-finishing-order](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2733-neither-minimum-nor-maximum) |
 ## Greedy
 |  |
 | ------- |
