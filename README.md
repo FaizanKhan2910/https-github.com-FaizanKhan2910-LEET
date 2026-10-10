@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0709-to-lower-case) |
+| [1678-goal-parser-interpretation](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
 |  |
