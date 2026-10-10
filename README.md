@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1486-xor-operation-in-an-array) |
