@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1678-goal-parser-interpretation](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting
 |  |
 | ------- |
@@ -348,4 +351,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/FaizanKhan2910/https-github.com-FaizanKhan2910-LEET/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
